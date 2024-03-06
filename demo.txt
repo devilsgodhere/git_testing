@@ -1,0 +1,31 @@
+    1  pwd
+    2  ls
+    3  pwd
+    4  git innit
+    5  git init
+    6  rm
+    7  rm -rf
+    8  rm -rf .git
+    9  mkdir gittest
+   10  cd
+   11  cd gittest
+   12  pwd
+   13  git init
+   14  touch 1.txt
+   15  git status
+   16  git add
+   17  git add .
+   18  git status
+   19  git commit -m "first commit"
+   20  [200~git remote add origin https://github.com/devilsgodhere/git_testing.git~
+   21  git remote add origin https://github.com/devilsgodhere/git_testing.git
+   22  git push -u origin master
+   23  history
+   24  history > 1.txt
+   25  git init
+   26  touch demo.txt
+   27  git add.
+   28  git add
+   29  touch demo.txt
+   30  git commit
+   31  history > demo.txt
